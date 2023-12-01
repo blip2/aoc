@@ -1,6 +1,5 @@
-Advent of Code
-==============
+## Advent of Code
 
-Personal repository of [Advent of Code](https://adventofcode.com/) solutions.
+Repository of my [Advent of Code](https://adventofcode.com/) solutions.
 
-Garanteed bodges.
+Bodges guaranteed...
