@@ -16,7 +16,7 @@ replace = {
     "nine": "n9e"
 }
 
-with open("input.txt") as f:
+with open("calibration.in.txt") as f:
     for line in f:
         lines += 1
         repline = line
